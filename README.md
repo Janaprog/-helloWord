@@ -1,2 +1,2 @@
-# -helloWord
+# helloWord
 Repositorio para testes
